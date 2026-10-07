@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this notebook, please cite the archived version."
+title: "Data Types in GIS"
+type: software
+authors:
+  - family-names: Laskowski
+    given-names: Andrew K.
+    affiliation: Montana State University
+    orcid: "https://orcid.org/0000-0003-0261-0737"
+version: data-types-notebook-v1.0.0
+date-released: 2025-01-13
+doi: 10.5281/zenodo.14640808
+license: MIT
+repository-code: "https://github.com/Andrew-MSU/gis-data-types-notebook"

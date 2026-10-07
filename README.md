@@ -17,19 +17,23 @@ This notebook is designed to teach students about the importance and usage of da
 ## How to Use
 
 ### In Jupyter Notebook
-1. Clone the repository and navigate to the `data-types-in-gis` folder.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Andrew-MSU/gis-data-types-notebook.git
+   cd gis-data-types-notebook
+   ```
 2. Open the notebook in Jupyter:
    ```bash
-   jupyter notebook data-types-in-gis.ipynb
+   jupyter notebook data_types_in_GIS.ipynb
    ```
 3. Follow the exercises and examples provided in the notebook.
-4. Use the dataset in the `data/` folder for the mapping example.
+4. The mapping example builds its own small sample dataset of US cities in the notebook and writes it to `cities.csv`, so you don't need any external data.
 
 ### In ArcGIS Online Notebooks
 1. Log in to your ArcGIS Online account.
 2. Navigate to the **Notebooks** section.
 3. Click **New Notebook** and select the appropriate runtime (e.g., Python Standard).
-4. Upload the `data-types-in-gis.ipynb` file to your notebook environment:
+4. Upload the `data_types_in_GIS.ipynb` file to your notebook environment:
    - Use the **Upload Files** option in the **Files** section.
 5. Run the notebook cells sequentially to complete the exercises and mapping example.
 
